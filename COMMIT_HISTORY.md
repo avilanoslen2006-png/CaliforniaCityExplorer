@@ -16,3 +16,4 @@
 [2025-10-28 18:15:00 -0400] Fix label for contact form email confirmation - 2025-10-28 18:15:00 -0400
 [2025-10-28 18:23:00 -0400] Implement external link for city pages - 2025-10-28 18:23:00 -0400
 [2025-10-28 18:38:00 -0400] Add ordered/unordered lists to city pages to meet rubric - 2025-10-28 18:38:00 -0400
+[2025-10-28 18:49:00 -0400] Add HTML table for demographics in city pages - 2025-10-28 18:49:00 -0400
