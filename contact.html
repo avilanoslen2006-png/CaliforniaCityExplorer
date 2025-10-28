@@ -1,0 +1,104 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <title>Contact | California Cities Explorer</title>
+  <link rel="stylesheet" href="style.css">
+  <script src="script.js" defer></script>
+  <style>
+    #thankYouOverlay {
+      display: none;
+      position: fixed;
+      z-index: 8888;
+      left: 0; top: 0; width: 100vw; height: 100vh;
+      background: rgba(24, 35, 54, 0.54);
+      justify-content: center;
+      align-items: center;
+    }
+    .thankYouPopup {
+      background: #fff;
+      border-radius: 18px;
+      min-width: 340px;
+      max-width: 95vw;
+      min-height: 180px;
+      padding: 34px 32px 60px 32px;
+      box-shadow: 0 8px 40px rgba(0,0,0,0.18);
+      position: relative;
+      text-align: center;
+    }
+    .thankYouPopup h2 {
+      font-size: 2.3em;
+      color: #0078d4;
+      margin-top: 0;
+      margin-bottom: 0;
+    }
+    #continueBtn {
+      position: absolute;
+      bottom: 24px;
+      right: 28px;
+      padding: 11px 32px;
+      background: #0078d4;
+      color: #fff;
+      border: none;
+      border-radius: 7px;
+      font-size: 1.1em;
+      cursor: pointer;
+      font-weight: bold;
+      box-shadow: 0 2px 8px #0078d444;
+    }
+    #contactForm {
+      margin-top: 50px;
+      margin-bottom: 50px;
+    }
+  </style>
+</head>
+<body>
+  <header>
+    <h1>Contact Me</h1>
+    <nav>
+      <a href="index.html">Home</a>
+      <a href="sacramento.html">Sacramento</a>
+      <a href="losangeles.html">Los Angeles</a>
+      <a href="sanfrancisco.html">San Francisco</a>
+      <a href="contact.html">Contact</a>
+    </nav>
+  </header>
+        </form>
+</form>
+<div style="height: 55px;"></div>
+  <main>
+    <form id="contactForm" action="https://formspree.io/f/xgvpkzwv" method="POST">
+      <label for="fname">First Name</label>
+      <input type="text" id="fname" name="First Name" required>
+
+      <label for="lname">Last Name</label>
+      <input type="text" id="lname" name="Last Name" required>
+
+      <label for="email">Email Address</label>
+      <input type="email" id="email" name="Email" required>
+
+      <label for="confirm_email">Confirm Email Address</label>
+      <input type="email" id="confirm_email" name="Confirm Email" required>
+
+      <label for="question">Your Question</label>
+      <textarea id="question" name="Question" rows="4" required></textarea>
+
+      <button type="submit">Submit</button>
+        </form>
+</form>
+<div style="height: 215px;"></div>
+    <div class="data-source">
+      Contact: <a href="mailto:navila13@wgu.edu">navila13@wgu.edu</a> | Phone: +1 (725) 347-2473
+    </div>
+    <div id="thankYouOverlay">
+      <div class="thankYouPopup">
+        <h2>Thank You!</h2>
+        <button id="continueBtn">Continue</button>
+      </div>
+    </div>
+  </main>
+  <footer>
+    <p>&copy; 2025 Noslen Luis Avila, WGU. Data source: <a href="https://datacommons.org/" target="_blank">datacommons.org</a></p>
+  </footer>
+</body>
+</html>
