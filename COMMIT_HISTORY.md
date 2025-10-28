@@ -19,3 +19,4 @@
 [2025-10-28 18:49:00 -0400] Add HTML table for demographics in city pages - 2025-10-28 18:49:00 -0400
 [2025-10-28 19:07:00 -0400] Add external CSS with consistent font-family and color - 2025-10-28 19:07:00 -0400
 [2025-10-28 19:20:00 -0400] Add :hover pseudo-class to nav for rollover effect - 2025-10-28 19:20:00 -0400
+[2025-10-28 19:34:00 -0400] Implement float property to position city table left of lists - 2025-10-28 19:34:00 -0400
