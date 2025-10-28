@@ -6,3 +6,4 @@
 [2025-10-28 16:17:00 -0400] Update home page image alt text for accessibility - 2025-10-28 16:17:00 -0400
 [2025-10-28 16:26:00 -0400] Add Sacramento city page with table, lists, facts, and image - 2025-10-28 16:26:00 -0400
 [2025-10-28 16:37:00 -0400] Fix Sacramento facts formatting and alignment - 2025-10-28 16:37:00 -0400
+[2025-10-28 16:49:00 -0400] Update Sacramento unordered list to include attractions - 2025-10-28 16:49:00 -0400
