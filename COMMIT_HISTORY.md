@@ -18,3 +18,4 @@
 [2025-10-28 18:38:00 -0400] Add ordered/unordered lists to city pages to meet rubric - 2025-10-28 18:38:00 -0400
 [2025-10-28 18:49:00 -0400] Add HTML table for demographics in city pages - 2025-10-28 18:49:00 -0400
 [2025-10-28 19:07:00 -0400] Add external CSS with consistent font-family and color - 2025-10-28 19:07:00 -0400
+[2025-10-28 19:20:00 -0400] Add :hover pseudo-class to nav for rollover effect - 2025-10-28 19:20:00 -0400
