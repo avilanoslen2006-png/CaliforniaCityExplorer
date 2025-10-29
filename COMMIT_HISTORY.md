@@ -42,3 +42,4 @@
 [2025-10-28 23:28:00 -0400] Update instructions for form submission on contact page - 2025-10-28 23:28:00 -0400
 [2025-10-28 23:37:00 -0400] Fix typo in Los Angeles attractions list - 2025-10-28 23:37:00 -0400
 [2025-10-29 00:02:00 -0400] Chore: validate all links and images across site - 2025-10-29 00:02:00 -0400
+[2025-10-29 00:19:00 -0400] Add missing alt tags and update image descriptions - 2025-10-29 00:19:00 -0400
