@@ -24,3 +24,4 @@
 [2025-10-28 19:52:00 -0400] Update relative positioning for contact page thank you modal - 2025-10-28 19:52:00 -0400
 [2025-10-28 20:01:00 -0400] Refactor CSS: use class selector for city highlights box - 2025-10-28 20:01:00 -0400
 [2025-10-28 20:10:00 -0400] Use ID selector for main header on home page - 2025-10-28 20:10:00 -0400
+[2025-10-28 20:17:00 -0400] Clean up CSS redundancy and spacing issues - 2025-10-28 20:17:00 -0400
