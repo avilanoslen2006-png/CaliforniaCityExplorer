@@ -39,3 +39,4 @@
 [2025-10-28 22:47:00 -0400] Tweak nav link colors for accessibility improvement - 2025-10-28 22:47:00 -0400
 [2025-10-28 23:07:00 -0400] Correct region text in San Francisco city facts - 2025-10-28 23:07:00 -0400
 [2025-10-28 23:15:00 -0400] Fix mobile view for contact form spacing - 2025-10-28 23:15:00 -0400
+[2025-10-28 23:28:00 -0400] Update instructions for form submission on contact page - 2025-10-28 23:28:00 -0400
