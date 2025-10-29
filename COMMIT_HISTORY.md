@@ -30,3 +30,4 @@
 [2025-10-28 20:56:00 -0400] Add modal thank you message to contact form - 2025-10-28 20:56:00 -0400
 [2025-10-28 21:06:00 -0400] Update alt text for homepage bear image - 2025-10-28 21:06:00 -0400
 [2025-10-28 21:18:00 -0400] Polish layout: adjust city sidebar margin and padding - 2025-10-28 21:18:00 -0400
+[2025-10-28 21:28:00 -0400] Add missing citation links for external city info sources - 2025-10-28 21:28:00 -0400
